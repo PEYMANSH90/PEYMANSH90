@@ -18,8 +18,8 @@ Specialization: Software Technologies for Automation — AI, Robotics, Automatio
 
 ## Current Work
 
-**RL Fine-tuning of Multi-Stream Generative Policies** *(targeting publication)*  
-Applying ReinFlow (Zhang et al., 2025) to fine-tune MSG (von Hartz et al., 2025) — a multi-stream object-centric flow policy — using online RL in RLBench (CoppeliaSim). Raised task success rate from 30% → 44% over the imitation-learning baseline.
+**RL Fine-tuning of Multi-Stream Generative Policies**  
+
 
 ---
 
