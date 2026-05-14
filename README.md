@@ -1,16 +1,54 @@
-## Hi there 👋
+# Peyman Shamsi
 
-<!--
-**PEYMANSH90/PEYMANSH90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Mechatronics · Politecnico di Torino  
+Specialization: Software Technologies for Automation — AI, Robotics, Automation
 
-Here are some ideas to get you started:
+📍 Turin, Italy · 📧 peyman.shamsi@studenti.polito.it
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Research Interests
+
+- RL fine-tuning of flow-matching (diffusion-based) policies for robot manipulation
+- Intersection of control theory, imitation learning, and reinforcement learning
+- Sample efficiency and stability in policy learning
+- Sim-to-real transfer via domain randomization
+
+---
+
+## Current Work
+
+**RL Fine-tuning of Multi-Stream Generative Policies** *(targeting publication)*  
+Applying ReinFlow (Zhang et al., 2025) to fine-tune MSG (von Hartz et al., 2025) — a multi-stream object-centric flow policy — using online RL in RLBench (CoppeliaSim). Raised task success rate from 30% → 44% over the imitation-learning baseline.
+
+---
+
+## Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [Sim-to-Real Domain Randomization](https://github.com/PEYMANSH90/sim-to-real-domain-randomization-using-entropy-maximization-) | Entropy-maximization-based domain randomization for sim-to-real transfer · MuJoCo Hopper | PyTorch · MuJoCo |
+| [RL Pick-and-Place](https://github.com/PEYMANSH90/RL-Pick-and-Place) | TD3-based torque control for ABB IRB1600 in pick-and-place operations | Python · Stable-Baselines3 |
+| [Advanced Object Tracking](https://github.com/PEYMANSH90/advanced-tracking) | Real-time object tracking with PID control and HSV detection | Python · OpenCV |
+
+---
+
+## Experience
+
+**Robotics Engineer** · Therness (startup), Turin · Sep–Dec 2025  
+Configured ABB CRB 15000 collaborative arm · real-time data acquisition · explored online RL deployment on physical hardware
+
+**QC/QA → Technical Office Engineer** · South Pars Gas Company (Mapna) · 2021–2023
+
+---
+
+## Stack
+
+`Python` · `PyTorch` · `NumPy` · `MuJoCo` · `RLBench` · `Gazebo` · `ROS` · `Git` · `Linux`
+
+---
+
+## Links
+
+[LinkedIn](https://linkedin.com/in/peyman-shamsi-b77789138) · [GitHub](https://github.com/PEYMANSH90) · [Portfolio](https://peymansh90.github.io)
+
