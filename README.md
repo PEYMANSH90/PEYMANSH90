@@ -12,7 +12,6 @@ Specialization: Software Technologies for Automation — AI, Robotics, Automatio
 - RL fine-tuning of flow-matching (diffusion-based) policies for robot manipulation
 - Intersection of control theory, imitation learning, and reinforcement learning
 - Sample efficiency and stability in policy learning
-- Sim-to-real transfer via domain randomization
 
 ---
 
